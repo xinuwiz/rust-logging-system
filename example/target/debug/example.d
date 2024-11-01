@@ -1,0 +1,1 @@
+/home/xinuwiz/RustroverProjects/rust-logging-system/example/target/debug/example: /home/xinuwiz/RustroverProjects/rust-logging-system/example/src/main.rs /home/xinuwiz/RustroverProjects/rust-logging-system/src/lib.rs

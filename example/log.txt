@@ -1,0 +1,3 @@
+INFO: Hello World!
+WARN: Hello World!
+ERROR: Hello World!
